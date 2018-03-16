@@ -1,0 +1,6 @@
+{
+  "name": "AnswerCreate",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AnswerCreate.js"
+}
