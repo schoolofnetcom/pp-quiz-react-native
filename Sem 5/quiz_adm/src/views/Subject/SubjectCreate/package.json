@@ -1,0 +1,6 @@
+{
+  "name": "SubjectCreate",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./SubjectCreate.js"
+}

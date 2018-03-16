@@ -1,0 +1,6 @@
+{
+  "name": "Subject",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./SubjectReducer.js"
+}

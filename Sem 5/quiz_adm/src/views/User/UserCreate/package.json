@@ -1,0 +1,6 @@
+{
+  "name": "UserCreate",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./UserCreate.js"
+}
